@@ -57,7 +57,7 @@ Follow these steps to set up the project locally:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/anujkpandit/profile-management-system.git
+git clone https://github.com/anujkpandit/Assignment.git
 ```
 ### Navigate into the project
 ```bash
