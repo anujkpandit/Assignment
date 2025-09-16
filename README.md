@@ -98,7 +98,7 @@ npm run dev
 ### Project Structure
 
 ```
-└── 📁MERN_stack_small_project-main
+└── 📁Assignment
     └── 📁AdminPanel
         └── 📁public
             ├── vite.svg
