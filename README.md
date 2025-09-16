@@ -61,7 +61,7 @@ git clone https://github.com/anujkpandit/profile-management-system.git
 ```
 ### Navigate into the project
 ```bash
-cd profile-management-system
+cd Assignment
 ```
 ### Install dependencies
 
